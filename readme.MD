@@ -1,9 +1,9 @@
-##EC2 instance##
+### EC2 instance
 
 This module creates ec2 instance in aws using terraform
 
 
-##Inputs##
+## Inputs
 
 - **project** *(Required, string)*: Specifies the name of the project used to create and identify AWS resources.
 - **environment** *(Required,  string)*: Deployment Environment (for example: "dev", "prod" or "uat" )
